@@ -6,6 +6,9 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+Note: In order to run the web application you will have to turn off the CORS of the browser because the web application is currently fetching database from another domain. 
+One of the approaches can be used is from the [page](https://alfilatov.com/posts/run-chrome-without-cors/)
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
